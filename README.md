@@ -62,11 +62,11 @@ If you have been asking this question to yourself frequently, you are not alone.
 
 - [x] Uber
 
+- [x] Curefit
+
 - [ ] Zomato
 
 - [ ] Swiggy
-
-- [ ] Curefit
 
 
 ## Built With
